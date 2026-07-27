@@ -1,0 +1,31 @@
+# Compiled objects and binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor and OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Python cache for the tracker script
+__pycache__/
+*.pyc
+.venv/
+venv/
