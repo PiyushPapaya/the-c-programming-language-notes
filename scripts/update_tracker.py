@@ -379,10 +379,13 @@ def write_tracker(chapters, t):
     lines.append("## By subsection")
     lines.append("")
     for c in chapters:
+        notes_done = sum(1 for s in c["sections"] if s["notes_done"])
+        notes_total = len(c["sections"])
+        summary_cell = "yes" if c["summary_done"] else ("-" if notes_done < notes_total else "no")
         lines.append("### Chapter %d - %s" % (c["number"], c["title"]))
         lines.append("")
-        lines.append("| Section | Title | Notes | Exercises |")
-        lines.append("| :---: | --- | :---: | :---: |")
+        lines.append("| Section | Title | Notes | Summary | Exercises |")
+        lines.append("| :---: | --- | :---: | :---: | :---: |")
         for s in c["sections"]:
             if not s["exists"]:
                 notes_cell = "-"
@@ -391,13 +394,15 @@ def write_tracker(chapters, t):
             else:
                 notes_cell = "no"
             solved = min(s["ex_solved"], s["ex_total"]) if s["ex_total"] else 0
-            lines.append("| %s | %s | %s | %d / %d |" % (
-                s["number"], s["title"], notes_cell, solved, s["ex_total"]))
+            lines.append("| %s | %s | %s | %s | %d / %d |" % (
+                s["number"], s["title"], notes_cell, summary_cell, solved, s["ex_total"]))
         lines.append("")
 
     lines.append("**Legend (Notes column):** `yes` = notes written, "
                  "`no` = section folder exists but notes are still empty, "
-                 "`-` = section folder not created yet.")
+                 "`-` = section folder not created yet. The Summary column is "
+                 "chapter-level, so it shows the same value for every section in a "
+                 "chapter (`yes` written, `no` due but missing, `-` not expected yet).")
     lines.append("")
 
     with open(TRACKER_MD, "w", encoding="utf-8") as f:
