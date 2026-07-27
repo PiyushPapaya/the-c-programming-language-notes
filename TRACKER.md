@@ -39,9 +39,9 @@ _Last updated: 2026-07-27_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 1.1 | Getting Started | - | - | 0 / 0 |
-| 1.2 | Variables and Arithmetic Expressions | - | - | 0 / 0 |
-| 1.3 | The for statement | - | - | 0 / 0 |
+| 1.1 | Getting Started | no | - | 0 / 0 |
+| 1.2 | Variables and Arithmetic Expressions | no | - | 0 / 0 |
+| 1.3 | The for statement | no | - | 0 / 0 |
 | 1.4 | Symbolic Constants | - | - | 0 / 0 |
 | 1.5 | Character Input and Output | - | - | 0 / 0 |
 | 1.6 | Arrays | - | - | 0 / 0 |
