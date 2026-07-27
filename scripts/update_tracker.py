@@ -48,97 +48,97 @@ SUMMARY_PLACEHOLDER = "<!-- placeholder:summary -->"
 # ---------------------------------------------------------------------------
 KR = [
     (1, "ch01-tutorial-intro", "A Tutorial Introduction", [
-        ("1.1", "1.1-getting-started"),
-        ("1.2", "1.2-variables-arithmetic"),
-        ("1.3", "1.3-for-statement"),
-        ("1.4", "1.4-symbolic-constants"),
-        ("1.5", "1.5-character-input-output"),
-        ("1.6", "1.6-arrays"),
-        ("1.7", "1.7-functions"),
-        ("1.8", "1.8-arguments-call-by-value"),
-        ("1.9", "1.9-character-arrays"),
-        ("1.10", "1.10-external-variables-scope"),
+        ("1.1", "Getting Started", "1.1-getting-started"),
+        ("1.2", "Variables and Arithmetic Expressions", "1.2-variables-arithmetic"),
+        ("1.3", "The for statement", "1.3-for-statement"),
+        ("1.4", "Symbolic Constants", "1.4-symbolic-constants"),
+        ("1.5", "Character Input and Output", "1.5-character-input-output"),
+        ("1.6", "Arrays", "1.6-arrays"),
+        ("1.7", "Functions", "1.7-functions"),
+        ("1.8", "Arguments - Call by Value", "1.8-arguments-call-by-value"),
+        ("1.9", "Character Arrays", "1.9-character-arrays"),
+        ("1.10", "External Variables and Scope", "1.10-external-variables-scope"),
     ]),
     (2, "ch02-types-operators-expressions", "Types, Operators and Expressions", [
-        ("2.1", "2.1-variable-names"),
-        ("2.2", "2.2-data-types-sizes"),
-        ("2.3", "2.3-constants"),
-        ("2.4", "2.4-declarations"),
-        ("2.5", "2.5-arithmetic-operators"),
-        ("2.6", "2.6-relational-logical-operators"),
-        ("2.7", "2.7-type-conversions"),
-        ("2.8", "2.8-increment-decrement-operators"),
-        ("2.9", "2.9-bitwise-operators"),
-        ("2.10", "2.10-assignment-operators-expressions"),
-        ("2.11", "2.11-conditional-expressions"),
-        ("2.12", "2.12-precedence-order-evaluation"),
+        ("2.1", "Variable Names", "2.1-variable-names"),
+        ("2.2", "Data Types and Sizes", "2.2-data-types-sizes"),
+        ("2.3", "Constants", "2.3-constants"),
+        ("2.4", "Declarations", "2.4-declarations"),
+        ("2.5", "Arithmetic Operators", "2.5-arithmetic-operators"),
+        ("2.6", "Relational and Logical Operators", "2.6-relational-logical-operators"),
+        ("2.7", "Type Conversions", "2.7-type-conversions"),
+        ("2.8", "Increment and Decrement Operators", "2.8-increment-decrement-operators"),
+        ("2.9", "Bitwise Operators", "2.9-bitwise-operators"),
+        ("2.10", "Assignment Operators and Expressions", "2.10-assignment-operators-expressions"),
+        ("2.11", "Conditional Expressions", "2.11-conditional-expressions"),
+        ("2.12", "Precedence and Order of Evaluation", "2.12-precedence-order-evaluation"),
     ]),
     (3, "ch03-control-flow", "Control Flow", [
-        ("3.1", "3.1-statements-blocks"),
-        ("3.2", "3.2-if-else"),
-        ("3.3", "3.3-else-if"),
-        ("3.4", "3.4-switch"),
-        ("3.5", "3.5-loops-while-for"),
-        ("3.6", "3.6-loops-do-while"),
-        ("3.7", "3.7-break-continue"),
-        ("3.8", "3.8-goto-labels"),
+        ("3.1", "Statements and Blocks", "3.1-statements-blocks"),
+        ("3.2", "If-Else", "3.2-if-else"),
+        ("3.3", "Else-If", "3.3-else-if"),
+        ("3.4", "Switch", "3.4-switch"),
+        ("3.5", "Loops - While and For", "3.5-loops-while-for"),
+        ("3.6", "Loops - Do-While", "3.6-loops-do-while"),
+        ("3.7", "Break and Continue", "3.7-break-continue"),
+        ("3.8", "Goto and labels", "3.8-goto-labels"),
     ]),
     (4, "ch04-functions-program-structure", "Functions and Program Structure", [
-        ("4.1", "4.1-basics-of-functions"),
-        ("4.2", "4.2-functions-returning-non-integers"),
-        ("4.3", "4.3-external-variables"),
-        ("4.4", "4.4-scope-rules"),
-        ("4.5", "4.5-header-files"),
-        ("4.6", "4.6-static-variables"),
-        ("4.7", "4.7-register-variables"),
-        ("4.8", "4.8-block-structure"),
-        ("4.9", "4.9-initialization"),
-        ("4.10", "4.10-recursion"),
-        ("4.11", "4.11-c-preprocessor"),
+        ("4.1", "Basics of Functions", "4.1-basics-of-functions"),
+        ("4.2", "Functions Returning Non-integers", "4.2-functions-returning-non-integers"),
+        ("4.3", "External Variables", "4.3-external-variables"),
+        ("4.4", "Scope Rules", "4.4-scope-rules"),
+        ("4.5", "Header Files", "4.5-header-files"),
+        ("4.6", "Static Variables", "4.6-static-variables"),
+        ("4.7", "Register Variables", "4.7-register-variables"),
+        ("4.8", "Block Structure", "4.8-block-structure"),
+        ("4.9", "Initialization", "4.9-initialization"),
+        ("4.10", "Recursion", "4.10-recursion"),
+        ("4.11", "The C Preprocessor", "4.11-c-preprocessor"),
     ]),
     (5, "ch05-pointers-arrays", "Pointers and Arrays", [
-        ("5.1", "5.1-pointers-addresses"),
-        ("5.2", "5.2-pointers-function-arguments"),
-        ("5.3", "5.3-pointers-arrays"),
-        ("5.4", "5.4-address-arithmetic"),
-        ("5.5", "5.5-character-pointers-functions"),
-        ("5.6", "5.6-pointer-arrays-pointers-to-pointers"),
-        ("5.7", "5.7-multi-dimensional-arrays"),
-        ("5.8", "5.8-initialization-pointer-arrays"),
-        ("5.9", "5.9-pointers-vs-multi-dimensional-arrays"),
-        ("5.10", "5.10-command-line-arguments"),
-        ("5.11", "5.11-pointers-to-functions"),
-        ("5.12", "5.12-complicated-declarations"),
+        ("5.1", "Pointers and Addresses", "5.1-pointers-addresses"),
+        ("5.2", "Pointers and Function Arguments", "5.2-pointers-function-arguments"),
+        ("5.3", "Pointers and Arrays", "5.3-pointers-arrays"),
+        ("5.4", "Address Arithmetic", "5.4-address-arithmetic"),
+        ("5.5", "Character Pointers and Functions", "5.5-character-pointers-functions"),
+        ("5.6", "Pointer Arrays; Pointers to Pointers", "5.6-pointer-arrays-pointers-to-pointers"),
+        ("5.7", "Multi-dimensional Arrays", "5.7-multi-dimensional-arrays"),
+        ("5.8", "Initialization of Pointer Arrays", "5.8-initialization-pointer-arrays"),
+        ("5.9", "Pointers vs. Multi-dimensional Arrays", "5.9-pointers-vs-multi-dimensional-arrays"),
+        ("5.10", "Command-line Arguments", "5.10-command-line-arguments"),
+        ("5.11", "Pointers to Functions", "5.11-pointers-to-functions"),
+        ("5.12", "Complicated Declarations", "5.12-complicated-declarations"),
     ]),
     (6, "ch06-structures", "Structures", [
-        ("6.1", "6.1-basics-of-structures"),
-        ("6.2", "6.2-structures-functions"),
-        ("6.3", "6.3-arrays-of-structures"),
-        ("6.4", "6.4-pointers-to-structures"),
-        ("6.5", "6.5-self-referential-structures"),
-        ("6.6", "6.6-table-lookup"),
-        ("6.7", "6.7-typedef"),
-        ("6.8", "6.8-unions"),
-        ("6.9", "6.9-bit-fields"),
+        ("6.1", "Basics of Structures", "6.1-basics-of-structures"),
+        ("6.2", "Structures and Functions", "6.2-structures-functions"),
+        ("6.3", "Arrays of Structures", "6.3-arrays-of-structures"),
+        ("6.4", "Pointers to Structures", "6.4-pointers-to-structures"),
+        ("6.5", "Self-referential Structures", "6.5-self-referential-structures"),
+        ("6.6", "Table Lookup", "6.6-table-lookup"),
+        ("6.7", "Typedef", "6.7-typedef"),
+        ("6.8", "Unions", "6.8-unions"),
+        ("6.9", "Bit-fields", "6.9-bit-fields"),
     ]),
     (7, "ch07-input-output", "Input and Output", [
-        ("7.1", "7.1-standard-input-output"),
-        ("7.2", "7.2-formatted-output-printf"),
-        ("7.3", "7.3-variable-length-argument-lists"),
-        ("7.4", "7.4-formatted-input-scanf"),
-        ("7.5", "7.5-file-access"),
-        ("7.6", "7.6-error-handling-stderr-exit"),
-        ("7.7", "7.7-line-input-output"),
-        ("7.8", "7.8-miscellaneous-functions"),
+        ("7.1", "Standard Input and Output", "7.1-standard-input-output"),
+        ("7.2", "Formatted Output - printf", "7.2-formatted-output-printf"),
+        ("7.3", "Variable-length Argument Lists", "7.3-variable-length-argument-lists"),
+        ("7.4", "Formatted Input - Scanf", "7.4-formatted-input-scanf"),
+        ("7.5", "File Access", "7.5-file-access"),
+        ("7.6", "Error Handling - Stderr and Exit", "7.6-error-handling-stderr-exit"),
+        ("7.7", "Line Input and Output", "7.7-line-input-output"),
+        ("7.8", "Miscellaneous Functions", "7.8-miscellaneous-functions"),
     ]),
     (8, "ch08-unix-system-interface", "The UNIX System Interface", [
-        ("8.1", "8.1-file-descriptors"),
-        ("8.2", "8.2-low-level-io-read-write"),
-        ("8.3", "8.3-open-creat-close-unlink"),
-        ("8.4", "8.4-random-access-lseek"),
-        ("8.5", "8.5-example-implementation-fopen-getc"),
-        ("8.6", "8.6-example-listing-directories"),
-        ("8.7", "8.7-example-storage-allocator"),
+        ("8.1", "File Descriptors", "8.1-file-descriptors"),
+        ("8.2", "Low Level I/O - Read and Write", "8.2-low-level-io-read-write"),
+        ("8.3", "Open, Creat, Close, Unlink", "8.3-open-creat-close-unlink"),
+        ("8.4", "Random Access - Lseek", "8.4-random-access-lseek"),
+        ("8.5", "Example - An implementation of Fopen and Getc", "8.5-example-implementation-fopen-getc"),
+        ("8.6", "Example - Listing Directories", "8.6-example-listing-directories"),
+        ("8.7", "Example - A Storage Allocator", "8.7-example-storage-allocator"),
     ]),
 ]
 
@@ -199,7 +199,7 @@ def scan():
         chdir = os.path.join(REPO_ROOT, chfolder)
 
         sec_rows = []
-        for secnum, secfolder in sections:
+        for secnum, sectitle, secfolder in sections:
             secdir = os.path.join(chdir, secfolder)
             notes_path = os.path.join(secdir, "notes-%s.md" % secnum)
             ex_dir = os.path.join(secdir, "exercises")
@@ -207,6 +207,7 @@ def scan():
 
             sec_rows.append({
                 "number": secnum,
+                "title": sectitle,
                 "exists": os.path.isdir(secdir),
                 "notes_done": notes_is_real(notes_path),
                 "ex_total": count_exercises(ex_md),
@@ -345,12 +346,16 @@ def write_tracker(chapters, t):
     lines.append("| Chapter summaries | %d | %d |" % (t["summaries_done"], t["total_chapters"]))
     lines.append("| Exercises solved | %d | %d |" % (t["ex_solved"], t["ex_total"]))
     lines.append("")
+    lines.append("## Progress over time")
+    lines.append("")
     lines.append("![Progress over time](progress/progress.png)")
     lines.append("")
+
+    # --- By chapter -------------------------------------------------------
     lines.append("## By chapter")
     lines.append("")
     lines.append("| Chapter | Notes | Summary | Exercises |")
-    lines.append("| --- | --- | --- | --- |")
+    lines.append("| --- | :---: | :---: | :---: |")
 
     for c in chapters:
         notes_done = sum(1 for s in c["sections"] if s["notes_done"])
@@ -364,9 +369,35 @@ def write_tracker(chapters, t):
             name, notes_done, notes_total, summary_cell, ex_solved, ex_total))
 
     lines.append("")
-    lines.append("Legend: Summary shows `yes` when written, `no` when the chapter's "
-                 "sections are all done but the summary is still missing, and `-` "
-                 "while the chapter is not finished yet.")
+    lines.append("**Legend (Summary column):** `yes` = summary written, "
+                 "`no` = all sections in the chapter are done but the summary is "
+                 "not written yet, `-` = chapter not finished yet so no summary is "
+                 "expected.")
+    lines.append("")
+
+    # --- By subsection ----------------------------------------------------
+    lines.append("## By subsection")
+    lines.append("")
+    for c in chapters:
+        lines.append("### Chapter %d - %s" % (c["number"], c["title"]))
+        lines.append("")
+        lines.append("| Section | Title | Notes | Exercises |")
+        lines.append("| :---: | --- | :---: | :---: |")
+        for s in c["sections"]:
+            if not s["exists"]:
+                notes_cell = "-"
+            elif s["notes_done"]:
+                notes_cell = "yes"
+            else:
+                notes_cell = "no"
+            solved = min(s["ex_solved"], s["ex_total"]) if s["ex_total"] else 0
+            lines.append("| %s | %s | %s | %d / %d |" % (
+                s["number"], s["title"], notes_cell, solved, s["ex_total"]))
+        lines.append("")
+
+    lines.append("**Legend (Notes column):** `yes` = notes written, "
+                 "`no` = section folder exists but notes are still empty, "
+                 "`-` = section folder not created yet.")
     lines.append("")
 
     with open(TRACKER_MD, "w", encoding="utf-8") as f:
