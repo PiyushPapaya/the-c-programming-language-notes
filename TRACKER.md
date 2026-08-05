@@ -6,13 +6,13 @@ _Last updated: 2026-08-10_
 
 ## Overall
 
-**2.2% complete** `[#-----------------------]`
+**3.3% complete** `[#-----------------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
-| Section notes | 2 | 77 |
+| Section notes | 3 | 77 |
 | Chapter summaries | 0 | 8 |
-| Exercises solved | 0 | 4 |
+| Exercises solved | 0 | 5 |
 
 ## Progress over time
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-10_
 
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
-| 1. A Tutorial Introduction | 2 / 10 | - | 0 / 4 |
+| 1. A Tutorial Introduction | 3 / 10 | - | 0 / 5 |
 | 2. Types, Operators and Expressions | 0 / 12 | - | 0 / 0 |
 | 3. Control Flow | 0 / 8 | - | 0 / 0 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
@@ -41,7 +41,7 @@ _Last updated: 2026-08-10_
 | :---: | --- | :---: | :---: | :---: |
 | 1.1 | Getting Started | yes | - | 0 / 2 |
 | 1.2 | Variables and Arithmetic Expressions | yes | - | 0 / 2 |
-| 1.3 | The for statement | no | - | 0 / 0 |
+| 1.3 | The for statement | yes | - | 0 / 1 |
 | 1.4 | Symbolic Constants | - | - | 0 / 0 |
 | 1.5 | Character Input and Output | - | - | 0 / 0 |
 | 1.6 | Arrays | - | - | 0 / 0 |
