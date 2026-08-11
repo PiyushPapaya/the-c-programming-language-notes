@@ -8,8 +8,8 @@ Solution files go next to this file and are named like `ex1-3a.c`, `ex1-3b.c`
 
 Total exercises: 2
 
-- [ ] **Exercise 1-1.** Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get.
-- [ ] **Exercise 1-2.** Experiment to find out what happens when printf's argument string contains \c, where c is some character not listed above.
+- [x] **Exercise 1-1.** Run the "hello, world" program on your system. Experiment with leaving out parts of the program, to see what error messages you get.
+- [x] **Exercise 1-2.** Experiment to find out what happens when printf's argument string contains \c, where c is some character not listed above.
 
 <!--
 NOTES FOR CLAUDE:
