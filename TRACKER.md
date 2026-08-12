@@ -6,13 +6,13 @@ _Last updated: 2026-08-12_
 
 ## Overall
 
-**9.8% complete** `[##----------------------]`
+**17.5% complete** `[####--------------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
-| Section notes | 4 | 77 |
+| Section notes | 5 | 77 |
 | Chapter summaries | 0 | 8 |
-| Exercises solved | 5 | 7 |
+| Exercises solved | 12 | 12 |
 
 ## Progress over time
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-12_
 
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
-| 1. A Tutorial Introduction | 4 / 10 | - | 5 / 7 |
+| 1. A Tutorial Introduction | 5 / 10 | - | 12 / 12 |
 | 2. Types, Operators and Expressions | 0 / 12 | - | 0 / 0 |
 | 3. Control Flow | 0 / 8 | - | 0 / 0 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
@@ -43,7 +43,7 @@ _Last updated: 2026-08-12_
 | 1.2 | Variables and Arithmetic Expressions | yes | - | 2 / 2 |
 | 1.3 | The for statement | yes | - | 1 / 1 |
 | 1.4 | Symbolic Constants | yes | - | 0 / 0 |
-| 1.5 | Character Input and Output | no | - | 0 / 2 |
+| 1.5 | Character Input and Output | yes | - | 7 / 7 |
 | 1.6 | Arrays | - | - | 0 / 0 |
 | 1.7 | Functions | - | - | 0 / 0 |
 | 1.8 | Arguments - Call by Value | - | - | 0 / 0 |
