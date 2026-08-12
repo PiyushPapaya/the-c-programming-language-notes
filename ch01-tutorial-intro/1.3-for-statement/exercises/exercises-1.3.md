@@ -8,4 +8,4 @@ Solution files go next to this file and are named like `ex1-3a.c`, `ex1-3b.c`
 
 Total exercises: 1
 
-- [ ] **Exercise 1-5 (a).** Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
+- [x] **Exercise 1-5 (a).** Modify the temperature conversion program to print the table in reverse order, that is, from 300 degrees to 0.
