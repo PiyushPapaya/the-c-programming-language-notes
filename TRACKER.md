@@ -6,13 +6,13 @@ _Last updated: 2026-08-15_
 
 ## Overall
 
-**26.9% complete** `[######------------------]`
+**26.6% complete** `[######------------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
-| Section notes | 9 | 77 |
+| Section notes | 10 | 77 |
 | Chapter summaries | 0 | 8 |
-| Exercises solved | 19 | 19 |
+| Exercises solved | 19 | 24 |
 
 ## Progress over time
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-15_
 
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
-| 1. A Tutorial Introduction | 9 / 10 | - | 19 / 19 |
+| 1. A Tutorial Introduction | 10 / 10 | no | 19 / 24 |
 | 2. Types, Operators and Expressions | 0 / 12 | - | 0 / 0 |
 | 3. Control Flow | 0 / 8 | - | 0 / 0 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
@@ -39,16 +39,16 @@ _Last updated: 2026-08-15_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 1.1 | Getting Started | yes | - | 2 / 2 |
-| 1.2 | Variables and Arithmetic Expressions | yes | - | 2 / 2 |
-| 1.3 | The for statement | yes | - | 1 / 1 |
-| 1.4 | Symbolic Constants | yes | - | 0 / 0 |
-| 1.5 | Character Input and Output | yes | - | 7 / 7 |
-| 1.6 | Arrays | yes | - | 2 / 2 |
-| 1.7 | Functions | yes | - | 1 / 1 |
-| 1.8 | Arguments - Call by Value | yes | - | 0 / 0 |
-| 1.9 | Character Arrays | yes | - | 4 / 4 |
-| 1.10 | External Variables and Scope | - | - | 0 / 0 |
+| 1.1 | Getting Started | yes | no | 2 / 2 |
+| 1.2 | Variables and Arithmetic Expressions | yes | no | 2 / 2 |
+| 1.3 | The for statement | yes | no | 1 / 1 |
+| 1.4 | Symbolic Constants | yes | no | 0 / 0 |
+| 1.5 | Character Input and Output | yes | no | 7 / 7 |
+| 1.6 | Arrays | yes | no | 2 / 2 |
+| 1.7 | Functions | yes | no | 1 / 1 |
+| 1.8 | Arguments - Call by Value | yes | no | 0 / 0 |
+| 1.9 | Character Arrays | yes | no | 4 / 4 |
+| 1.10 | External Variables and Scope | yes | no | 0 / 5 |
 
 ### Chapter 2 - Types, Operators and Expressions
 
