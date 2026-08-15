@@ -13,6 +13,11 @@ and anything worth remembering.
 
 -->
 
+## 2026-08-15
+- Sections: 1.9, 1.10
+- Exercises solved: 1-16, 1-17, 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24
+- Notes: finished Chapter 1, so wrote the chapter summary too. Solution files kept showing up loose or misnamed (e.g. `1-16.c` in the chapter root, `1-20.c` in the exercises folder) instead of the `ex<chapter>-<section><letter>.c` convention, renamed them into place each time.
+
 ## 2026-08-11
 - Sections: 1.1, 1.2
 - Exercises solved: 1-1, 1-2, 1-3, 1-4
