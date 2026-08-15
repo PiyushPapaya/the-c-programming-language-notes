@@ -6,13 +6,13 @@ _Last updated: 2026-08-15_
 
 ## Overall
 
-**27.5% complete** `[#######-----------------]`
+**32.1% complete** `[########----------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
 | Section notes | 10 | 77 |
 | Chapter summaries | 1 | 8 |
-| Exercises solved | 19 | 24 |
+| Exercises solved | 24 | 24 |
 
 ## Progress over time
 
@@ -22,7 +22,7 @@ _Last updated: 2026-08-15_
 
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
-| 1. A Tutorial Introduction | 10 / 10 | yes | 19 / 24 |
+| 1. A Tutorial Introduction | 10 / 10 | yes | 24 / 24 |
 | 2. Types, Operators and Expressions | 0 / 12 | - | 0 / 0 |
 | 3. Control Flow | 0 / 8 | - | 0 / 0 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
@@ -48,7 +48,7 @@ _Last updated: 2026-08-15_
 | 1.7 | Functions | yes | yes | 1 / 1 |
 | 1.8 | Arguments - Call by Value | yes | yes | 0 / 0 |
 | 1.9 | Character Arrays | yes | yes | 4 / 4 |
-| 1.10 | External Variables and Scope | yes | yes | 0 / 5 |
+| 1.10 | External Variables and Scope | yes | yes | 5 / 5 |
 
 ### Chapter 2 - Types, Operators and Expressions
 
