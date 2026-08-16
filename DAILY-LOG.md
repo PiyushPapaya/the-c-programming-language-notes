@@ -13,6 +13,11 @@ and anything worth remembering.
 
 -->
 
+## 2026-08-16
+- Sections: 2.1, 2.2, 2.3
+- Exercises solved: none yet (notes and exercise lists written; 2.2 has exercise 2-1 open, 2.1 and 2.3 have none in the section text)
+- Notes: started Chapter 2, set up the chapter folder and the first three sections. No chapter 2 summary yet since only 3 of 12 sections are done.
+
 ## 2026-08-15
 - Sections: 1.9, 1.10
 - Exercises solved: 1-16, 1-17, 1-18, 1-19, 1-20, 1-21, 1-22, 1-23, 1-24
