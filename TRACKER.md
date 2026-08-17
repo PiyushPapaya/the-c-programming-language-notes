@@ -6,13 +6,13 @@ _Last updated: 2026-08-17_
 
 ## Overall
 
-**35.1% complete** `[########----------------]`
+**41.7% complete** `[##########--------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
-| Section notes | 13 | 77 |
+| Section notes | 15 | 77 |
 | Chapter summaries | 1 | 8 |
-| Exercises solved | 25 | 26 |
+| Exercises solved | 34 | 35 |
 
 ## Progress over time
 
@@ -23,7 +23,7 @@ _Last updated: 2026-08-17_
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
 | 1. A Tutorial Introduction | 10 / 10 | yes | 24 / 24 |
-| 2. Types, Operators and Expressions | 3 / 12 | - | 1 / 2 |
+| 2. Types, Operators and Expressions | 5 / 12 | - | 10 / 11 |
 | 3. Control Flow | 0 / 8 | - | 0 / 0 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
 | 5. Pointers and Arrays | 0 / 12 | - | 0 / 0 |
@@ -55,15 +55,15 @@ _Last updated: 2026-08-17_
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
 | 2.1 | Variable Names | yes | - | 1 / 1 |
-| 2.2 | Data Types and Sizes | yes | - | 0 / 1 |
-| 2.3 | Constants | yes | - | 0 / 0 |
-| 2.4 | Declarations | - | - | 0 / 0 |
-| 2.5 | Arithmetic Operators | - | - | 0 / 0 |
-| 2.6 | Relational and Logical Operators | - | - | 0 / 0 |
-| 2.7 | Type Conversions | - | - | 0 / 0 |
-| 2.8 | Increment and Decrement Operators | - | - | 0 / 0 |
-| 2.9 | Bitwise Operators | - | - | 0 / 0 |
-| 2.10 | Assignment Operators and Expressions | - | - | 0 / 0 |
+| 2.2 | Data Types and Sizes | yes | - | 1 / 2 |
+| 2.3 | Constants | yes | - | 1 / 1 |
+| 2.4 | Declarations | yes | - | 1 / 1 |
+| 2.5 | Arithmetic Operators | yes | - | 1 / 1 |
+| 2.6 | Relational and Logical Operators | no | - | 1 / 1 |
+| 2.7 | Type Conversions | no | - | 1 / 1 |
+| 2.8 | Increment and Decrement Operators | no | - | 1 / 1 |
+| 2.9 | Bitwise Operators | no | - | 1 / 1 |
+| 2.10 | Assignment Operators and Expressions | no | - | 1 / 1 |
 | 2.11 | Conditional Expressions | - | - | 0 / 0 |
 | 2.12 | Precedence and Order of Evaluation | - | - | 0 / 0 |
 

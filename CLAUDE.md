@@ -247,22 +247,33 @@ in order:
    ```
    python scripts/update_tracker.py
    ```
-2. Stage everything:
+2. Update `DAILY-LOG.md`. Add or update today's entry at the top (newest first,
+   date format `YYYY-MM-DD`), following the existing format: which sections were
+   touched, which exercises were solved, and a short "Notes:" line about anything
+   worth remembering (tricky bugs, files that had to be sorted/renamed, decisions
+   made). If an entry for today already exists, add to it instead of duplicating
+   a second heading for the same date.
+3. Stage everything:
    ```
    git add -A
    ```
-3. Commit with a short, auto-generated message describing what changed, for
+4. Commit with a short, auto-generated message describing what changed, for
    example `Add notes and exercises for 1.3` or `Scaffold folder for 2.4` or
    `Add summary for chapter 1`. Keep the message short.
    ```
    git commit -m "Add notes and exercises for 1.3"
    ```
-4. Push:
+5. Push:
    ```
    git push
    ```
 
 Every change ends with a push. Do not leave work uncommitted.
+
+When a single request produces several separate commits (for example, one commit
+per exercise), run the tracker once and write/update the `DAILY-LOG.md` entry
+once at the end, covering everything done in that request, rather than repeating
+steps 1-2 for every individual commit.
 
 ---
 

@@ -13,6 +13,11 @@ and anything worth remembering.
 
 -->
 
+## 2026-08-17
+- Sections: 2.4, 2.5 (real notes from pasted text); 2.6, 2.7, 2.8, 2.9, 2.10 (scaffolded, no book text pasted yet)
+- Exercises solved: 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10
+- Notes: nine solution files (`2-2.c` through `2-10.c`) showed up loose in the chapter root instead of the `ex<chapter>-<section><letter>.c` convention. Sorted each into its section folder using the exercise-number-as-section-number rule (`2-6.c` -> section 2.6, etc.), which means some land in a different section than where the exercise conceptually appears in the book (e.g. the bit-manipulation exercises 2-6 through 2-9 are spread across 2.6-2.9 by number, not grouped under Bitwise Operators). Exercises 2-6 through 2-10 are function-only (no `main`), so no `.exe` was built for those, only for 2-3, 2-4, and 2-5. Added a CLAUDE.md rule to update this log automatically after every change going forward.
+
 ## 2026-08-16
 - Sections: 2.1, 2.2, 2.3
 - Exercises solved: none yet (notes and exercise lists written; 2.2 has exercise 2-1 open, 2.1 and 2.3 have none in the section text)
