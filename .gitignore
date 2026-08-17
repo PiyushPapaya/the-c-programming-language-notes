@@ -7,8 +7,7 @@
 *.dylib
 *.dll
 
-# Executables
-*.exe
+# Executables (.exe build outputs ARE tracked, see CLAUDE.md; only *.out stays ignored)
 *.out
 a.out
 

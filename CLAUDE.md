@@ -36,9 +36,28 @@ Each section subfolder contains:
   - `exercises-1.3.md`, the list of exercise prompts pulled from the text.
   - The solution files Piyush adds himself, named `ex1-3a.c`, `ex1-3b.c`, and so
     on. That naming is `ex<chapter>-<section><letter>.c`.
+  - `output/`, holding the compiled binary for each solution file, named to
+    match it: `ex1-3a.c` builds to `output/ex1-3a.exe`. These `.exe` files ARE
+    committed to git (see the `.gitignore` note below).
 
 So `notes-x.y.md` and `exercises-x.y.md` are per section, and `summary-x.md` is
 per chapter.
+
+If a `.c` file or `.exe` ever turns up loose (chapter root, an old top-level
+`output/` folder, or anywhere outside a section's `exercises/output/`), it is
+clutter from before this convention was followed consistently. Sort it: the
+exercise number tells you the section (`ex<chapter>-<section><letter>.c` means
+section `<chapter>.<section>`), regardless of which part of the book text the
+exercise conceptually belongs to. Move the `.c` file into that section's
+`exercises/` folder with the correct name, move or rebuild its `.exe` into
+`exercises/output/` with the matching name, and if `exercises-x.y.md` doesn't
+already list that exercise, add it (checked off, since a solution exists)
+using the real K&R exercise prompt text.
+
+`.gitignore` ignores ordinary build junk (`*.o`, `*.out`, `a.out`, etc.) but
+**not** `.exe`. Compiled `.exe` files under `exercises/output/` are tracked and
+pushed like any other file, so `git add -A` picks them up with no special
+handling.
 
 Templates live in `TEMPLATES/`. Use them as the starting point:
 
