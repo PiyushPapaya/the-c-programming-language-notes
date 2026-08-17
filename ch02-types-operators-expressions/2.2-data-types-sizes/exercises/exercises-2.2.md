@@ -6,6 +6,7 @@ working solution file for it in this folder.
 Solution files go next to this file and are named like `ex2-2a.c`, `ex2-2b.c`
 (that is `ex<chapter>-<section><letter>.c`).
 
-Total exercises: 1
+Total exercises: 2
 
 - [ ] **Exercise 2-1 (a).** Write a program to determine the ranges of char, short, int, and long variables, both signed and unsigned, by printing appropriate values from standard headers and by direct computation. Harder if you compute them: determine the ranges of the various floating-point types.
+- [x] **Exercise 2-2 (a).** Write a loop equivalent to the for loop above without using && or ||.
