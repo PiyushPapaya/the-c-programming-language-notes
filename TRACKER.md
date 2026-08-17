@@ -6,13 +6,13 @@ _Last updated: 2026-08-17_
 
 ## Overall
 
-**41.7% complete** `[##########--------------]`
+**27.5% complete** `[#######-----------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
 | Section notes | 15 | 77 |
 | Chapter summaries | 1 | 8 |
-| Exercises solved | 34 | 35 |
+| Exercises solved | 34 | 97 |
 
 ## Progress over time
 
@@ -23,13 +23,13 @@ _Last updated: 2026-08-17_
 | Chapter | Notes | Summary | Exercises |
 | --- | :---: | :---: | :---: |
 | 1. A Tutorial Introduction | 10 / 10 | yes | 24 / 24 |
-| 2. Types, Operators and Expressions | 5 / 12 | - | 10 / 11 |
-| 3. Control Flow | 0 / 8 | - | 0 / 0 |
-| 4. Functions and Program Structure | 0 / 11 | - | 0 / 0 |
-| 5. Pointers and Arrays | 0 / 12 | - | 0 / 0 |
-| 6. Structures | 0 / 9 | - | 0 / 0 |
-| 7. Input and Output | 0 / 8 | - | 0 / 0 |
-| 8. The UNIX System Interface | 0 / 7 | - | 0 / 0 |
+| 2. Types, Operators and Expressions | 5 / 12 | - | 10 / 10 |
+| 3. Control Flow | 0 / 8 | - | 0 / 6 |
+| 4. Functions and Program Structure | 0 / 11 | - | 0 / 14 |
+| 5. Pointers and Arrays | 0 / 12 | - | 0 / 20 |
+| 6. Structures | 0 / 9 | - | 0 / 6 |
+| 7. Input and Output | 0 / 8 | - | 0 / 9 |
+| 8. The UNIX System Interface | 0 / 7 | - | 0 / 8 |
 
 **Legend (Summary column):** `yes` = summary written, `no` = all sections in the chapter are done but the summary is not written yet, `-` = chapter not finished yet so no summary is expected.
 
@@ -54,17 +54,17 @@ _Last updated: 2026-08-17_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 2.1 | Variable Names | yes | - | 1 / 1 |
-| 2.2 | Data Types and Sizes | yes | - | 1 / 2 |
-| 2.3 | Constants | yes | - | 1 / 1 |
-| 2.4 | Declarations | yes | - | 1 / 1 |
-| 2.5 | Arithmetic Operators | yes | - | 1 / 1 |
+| 2.1 | Variable Names | yes | - | 1 / 0 |
+| 2.2 | Data Types and Sizes | yes | - | 1 / 1 |
+| 2.3 | Constants | yes | - | 1 / 0 |
+| 2.4 | Declarations | yes | - | 1 / 0 |
+| 2.5 | Arithmetic Operators | yes | - | 1 / 0 |
 | 2.6 | Relational and Logical Operators | no | - | 1 / 1 |
 | 2.7 | Type Conversions | no | - | 1 / 1 |
-| 2.8 | Increment and Decrement Operators | no | - | 1 / 1 |
-| 2.9 | Bitwise Operators | no | - | 1 / 1 |
+| 2.8 | Increment and Decrement Operators | no | - | 1 / 2 |
+| 2.9 | Bitwise Operators | no | - | 1 / 3 |
 | 2.10 | Assignment Operators and Expressions | no | - | 1 / 1 |
-| 2.11 | Conditional Expressions | - | - | 0 / 0 |
+| 2.11 | Conditional Expressions | - | - | 0 / 1 |
 | 2.12 | Precedence and Order of Evaluation | - | - | 0 / 0 |
 
 ### Chapter 3 - Control Flow
@@ -73,10 +73,10 @@ _Last updated: 2026-08-17_
 | :---: | --- | :---: | :---: | :---: |
 | 3.1 | Statements and Blocks | - | - | 0 / 0 |
 | 3.2 | If-Else | - | - | 0 / 0 |
-| 3.3 | Else-If | - | - | 0 / 0 |
-| 3.4 | Switch | - | - | 0 / 0 |
-| 3.5 | Loops - While and For | - | - | 0 / 0 |
-| 3.6 | Loops - Do-While | - | - | 0 / 0 |
+| 3.3 | Else-If | - | - | 0 / 1 |
+| 3.4 | Switch | - | - | 0 / 1 |
+| 3.5 | Loops - While and For | - | - | 0 / 1 |
+| 3.6 | Loops - Do-While | - | - | 0 / 3 |
 | 3.7 | Break and Continue | - | - | 0 / 0 |
 | 3.8 | Goto and labels | - | - | 0 / 0 |
 
@@ -84,45 +84,45 @@ _Last updated: 2026-08-17_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 4.1 | Basics of Functions | - | - | 0 / 0 |
-| 4.2 | Functions Returning Non-integers | - | - | 0 / 0 |
-| 4.3 | External Variables | - | - | 0 / 0 |
+| 4.1 | Basics of Functions | - | - | 0 / 1 |
+| 4.2 | Functions Returning Non-integers | - | - | 0 / 1 |
+| 4.3 | External Variables | - | - | 0 / 8 |
 | 4.4 | Scope Rules | - | - | 0 / 0 |
 | 4.5 | Header Files | - | - | 0 / 0 |
-| 4.6 | Static Variables | - | - | 0 / 0 |
+| 4.6 | Static Variables | - | - | 0 / 1 |
 | 4.7 | Register Variables | - | - | 0 / 0 |
 | 4.8 | Block Structure | - | - | 0 / 0 |
 | 4.9 | Initialization | - | - | 0 / 0 |
-| 4.10 | Recursion | - | - | 0 / 0 |
-| 4.11 | The C Preprocessor | - | - | 0 / 0 |
+| 4.10 | Recursion | - | - | 0 / 2 |
+| 4.11 | The C Preprocessor | - | - | 0 / 1 |
 
 ### Chapter 5 - Pointers and Arrays
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
 | 5.1 | Pointers and Addresses | - | - | 0 / 0 |
-| 5.2 | Pointers and Function Arguments | - | - | 0 / 0 |
+| 5.2 | Pointers and Function Arguments | - | - | 0 / 2 |
 | 5.3 | Pointers and Arrays | - | - | 0 / 0 |
 | 5.4 | Address Arithmetic | - | - | 0 / 0 |
-| 5.5 | Character Pointers and Functions | - | - | 0 / 0 |
-| 5.6 | Pointer Arrays; Pointers to Pointers | - | - | 0 / 0 |
-| 5.7 | Multi-dimensional Arrays | - | - | 0 / 0 |
+| 5.5 | Character Pointers and Functions | - | - | 0 / 4 |
+| 5.6 | Pointer Arrays; Pointers to Pointers | - | - | 0 / 1 |
+| 5.7 | Multi-dimensional Arrays | - | - | 0 / 1 |
 | 5.8 | Initialization of Pointer Arrays | - | - | 0 / 0 |
-| 5.9 | Pointers vs. Multi-dimensional Arrays | - | - | 0 / 0 |
-| 5.10 | Command-line Arguments | - | - | 0 / 0 |
-| 5.11 | Pointers to Functions | - | - | 0 / 0 |
-| 5.12 | Complicated Declarations | - | - | 0 / 0 |
+| 5.9 | Pointers vs. Multi-dimensional Arrays | - | - | 0 / 1 |
+| 5.10 | Command-line Arguments | - | - | 0 / 4 |
+| 5.11 | Pointers to Functions | - | - | 0 / 4 |
+| 5.12 | Complicated Declarations | - | - | 0 / 3 |
 
 ### Chapter 6 - Structures
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 6.1 | Basics of Structures | - | - | 0 / 0 |
-| 6.2 | Structures and Functions | - | - | 0 / 0 |
-| 6.3 | Arrays of Structures | - | - | 0 / 0 |
-| 6.4 | Pointers to Structures | - | - | 0 / 0 |
-| 6.5 | Self-referential Structures | - | - | 0 / 0 |
-| 6.6 | Table Lookup | - | - | 0 / 0 |
+| 6.1 | Basics of Structures | - | - | 0 / 1 |
+| 6.2 | Structures and Functions | - | - | 0 / 1 |
+| 6.3 | Arrays of Structures | - | - | 0 / 1 |
+| 6.4 | Pointers to Structures | - | - | 0 / 1 |
+| 6.5 | Self-referential Structures | - | - | 0 / 1 |
+| 6.6 | Table Lookup | - | - | 0 / 1 |
 | 6.7 | Typedef | - | - | 0 / 0 |
 | 6.8 | Unions | - | - | 0 / 0 |
 | 6.9 | Bit-fields | - | - | 0 / 0 |
@@ -131,25 +131,25 @@ _Last updated: 2026-08-17_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 7.1 | Standard Input and Output | - | - | 0 / 0 |
-| 7.2 | Formatted Output - printf | - | - | 0 / 0 |
-| 7.3 | Variable-length Argument Lists | - | - | 0 / 0 |
-| 7.4 | Formatted Input - Scanf | - | - | 0 / 0 |
-| 7.5 | File Access | - | - | 0 / 0 |
-| 7.6 | Error Handling - Stderr and Exit | - | - | 0 / 0 |
-| 7.7 | Line Input and Output | - | - | 0 / 0 |
-| 7.8 | Miscellaneous Functions | - | - | 0 / 0 |
+| 7.1 | Standard Input and Output | - | - | 0 / 1 |
+| 7.2 | Formatted Output - printf | - | - | 0 / 1 |
+| 7.3 | Variable-length Argument Lists | - | - | 0 / 1 |
+| 7.4 | Formatted Input - Scanf | - | - | 0 / 1 |
+| 7.5 | File Access | - | - | 0 / 1 |
+| 7.6 | Error Handling - Stderr and Exit | - | - | 0 / 1 |
+| 7.7 | Line Input and Output | - | - | 0 / 1 |
+| 7.8 | Miscellaneous Functions | - | - | 0 / 2 |
 
 ### Chapter 8 - The UNIX System Interface
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
 | 8.1 | File Descriptors | - | - | 0 / 0 |
-| 8.2 | Low Level I/O - Read and Write | - | - | 0 / 0 |
-| 8.3 | Open, Creat, Close, Unlink | - | - | 0 / 0 |
-| 8.4 | Random Access - Lseek | - | - | 0 / 0 |
-| 8.5 | Example - An implementation of Fopen and Getc | - | - | 0 / 0 |
-| 8.6 | Example - Listing Directories | - | - | 0 / 0 |
-| 8.7 | Example - A Storage Allocator | - | - | 0 / 0 |
+| 8.2 | Low Level I/O - Read and Write | - | - | 0 / 1 |
+| 8.3 | Open, Creat, Close, Unlink | - | - | 0 / 1 |
+| 8.4 | Random Access - Lseek | - | - | 0 / 1 |
+| 8.5 | Example - An implementation of Fopen and Getc | - | - | 0 / 2 |
+| 8.6 | Example - Listing Directories | - | - | 0 / 2 |
+| 8.7 | Example - A Storage Allocator | - | - | 0 / 1 |
 
-**Legend (Notes column):** `yes` = notes written, `no` = section folder exists but notes are still empty, `-` = section folder not created yet. The Summary column is chapter-level, so it shows the same value for every section in a chapter (`yes` written, `no` due but missing, `-` not expected yet).
+**Legend (Notes column):** `yes` = notes written, `no` = section folder exists but notes are still empty, `-` = section folder not created yet. Exercise counts here are official K&R per-section counts vs. `.c` files actually filed in that section's folder; solution files get sorted by exercise number (see CLAUDE.md), not by which section the exercise conceptually belongs to, so a section can show more or fewer solved than the book lists for it even though the chapter total is accurate. The Summary column is chapter-level, so it shows the same value for every section in a chapter (`yes` written, `no` due but missing, `-` not expected yet).
