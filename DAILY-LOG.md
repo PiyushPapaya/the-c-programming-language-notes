@@ -13,6 +13,11 @@ and anything worth remembering.
 
 -->
 
+## 2026-08-20
+- Sections: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8 (folder structure scaffolded, no book text pasted yet)
+- Exercises solved: none yet
+- Notes: set up the full Chapter 3 (Control Flow) folder structure, all eight sections, using the notes and exercises templates as is. No real notes or exercises until the book text is pasted for each section.
+
 ## 2026-08-17
 - Sections: 2.4, 2.5 (real notes from pasted text); 2.6, 2.7, 2.8, 2.9, 2.10 (scaffolded, no book text pasted yet)
 - Exercises solved: 2-2, 2-3, 2-4, 2-5, 2-6, 2-7, 2-8, 2-9, 2-10
