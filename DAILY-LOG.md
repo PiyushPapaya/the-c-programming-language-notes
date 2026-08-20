@@ -14,9 +14,9 @@ and anything worth remembering.
 -->
 
 ## 2026-08-20
-- Sections: 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8 (folder structure scaffolded, no book text pasted yet)
-- Exercises solved: none yet
-- Notes: set up the full Chapter 3 (Control Flow) folder structure, all eight sections, using the notes and exercises templates as is. No real notes or exercises until the book text is pasted for each section.
+- Sections: 3.1, 3.2, 3.3 (real notes from pasted text); 3.4, 3.5, 3.6, 3.7, 3.8 (scaffolded, no book text pasted yet)
+- Exercises solved: none yet (exercise 3-1 listed under 3.3, no solution file yet)
+- Notes: set up the full Chapter 3 (Control Flow) folder structure, all eight sections, then filled in real notes and exercise lists for 3.1 (Statements and Blocks), 3.2 (If-Else), and 3.3 (Else-If) from pasted book text. 3.2's dangling-else section and 3.3's binary search example were worth keeping as full code blocks since they're the whole point of those sections. Committed each section separately per request, all backdated to today.
 
 ## 2026-08-17
 - Sections: 2.4, 2.5 (real notes from pasted text); 2.6, 2.7, 2.8, 2.9, 2.10 (scaffolded, no book text pasted yet)

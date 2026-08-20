@@ -6,11 +6,11 @@ _Last updated: 2026-09-06_
 
 ## Overall
 
-**27.5% complete** `[#######-----------------]`
+**29.1% complete** `[#######-----------------]`
 
 | Metric | Done | Total |
 | --- | --- | --- |
-| Section notes | 15 | 77 |
+| Section notes | 18 | 77 |
 | Chapter summaries | 1 | 8 |
 | Exercises solved | 34 | 97 |
 
@@ -24,7 +24,7 @@ _Last updated: 2026-09-06_
 | --- | :---: | :---: | :---: |
 | 1. A Tutorial Introduction | 10 / 10 | yes | 24 / 24 |
 | 2. Types, Operators and Expressions | 5 / 12 | - | 10 / 10 |
-| 3. Control Flow | 0 / 8 | - | 0 / 6 |
+| 3. Control Flow | 3 / 8 | - | 0 / 6 |
 | 4. Functions and Program Structure | 0 / 11 | - | 0 / 14 |
 | 5. Pointers and Arrays | 0 / 12 | - | 0 / 20 |
 | 6. Structures | 0 / 9 | - | 0 / 6 |
@@ -71,9 +71,9 @@ _Last updated: 2026-09-06_
 
 | Section | Title | Notes | Summary | Exercises |
 | :---: | --- | :---: | :---: | :---: |
-| 3.1 | Statements and Blocks | no | - | 0 / 0 |
-| 3.2 | If-Else | no | - | 0 / 0 |
-| 3.3 | Else-If | no | - | 0 / 1 |
+| 3.1 | Statements and Blocks | yes | - | 0 / 0 |
+| 3.2 | If-Else | yes | - | 0 / 0 |
+| 3.3 | Else-If | yes | - | 0 / 1 |
 | 3.4 | Switch | no | - | 0 / 1 |
 | 3.5 | Loops - While and For | no | - | 0 / 1 |
 | 3.6 | Loops - Do-While | no | - | 0 / 3 |
