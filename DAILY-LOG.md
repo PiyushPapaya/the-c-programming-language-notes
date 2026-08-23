@@ -13,6 +13,11 @@ and anything worth remembering.
 
 -->
 
+## 2026-08-23
+- Sections: 3.3
+- Exercises solved: 3-1
+- Notes: found a loose solution file `3-4.c` sitting in the 3.3 exercises folder. Its content (a single-test binary search) was actually the solution to Exercise 3-1, which is already listed under section 3.3, not exercise 3-4. Renamed it to `ex3-3a.c` and checked off 3-1 instead of moving it to section 3.4 as its filename would suggest. No `.exe` built since it's a function-only file with no `main`.
+
 ## 2026-08-20
 - Sections: 3.1, 3.2, 3.3 (real notes from pasted text); 3.4, 3.5, 3.6, 3.7, 3.8 (scaffolded, no book text pasted yet)
 - Exercises solved: none yet (exercise 3-1 listed under 3.3, no solution file yet)
